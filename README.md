@@ -39,6 +39,6 @@ Apos a aplicação dos algorítimos, os resultados foram transcritos para tabela
 
 ## Importante ao Executar
 
-• Ter o java instalado
-• Fazer o Dowload do Dataset
-• Alterar o caminho para o Dataset no arquivo main 
+• Ter o java instalado;
+• Fazer o Dowload do Dataset;
+• Alterar o caminho para o Dataset no arquivo main.
